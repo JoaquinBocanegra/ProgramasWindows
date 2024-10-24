@@ -35,7 +35,3 @@ Este es un programa en Python con una interfaz gráfica (Tkinter) que permite ap
     pyinstaller --onefile --windowed shutdown_timer.py
     ```
     El archivo `.exe` estará disponible en la carpeta `dist`.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
